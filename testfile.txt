@@ -1,7 +1,6 @@
 #title
 content
-main content 2
+
 
 #title
 content
-honeys content 2
